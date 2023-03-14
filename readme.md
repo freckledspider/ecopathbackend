@@ -3,7 +3,7 @@
 ### Concept
 EcoPath is a nature trail tracker application that allows hikers and nature enthusiasts to track their trail routes, record observations of flora and fauna, and share their experiences with others.
 
-<a href="/">Live Demo</a>
+<a href="https://ecopath.netlify.app/">Live Demo</a>
 
 ### CRUD Concept
 - Create: Add to log
@@ -13,12 +13,12 @@ EcoPath is a nature trail tracker application that allows hikers and nature enth
 
 ### Technologies Used
 #### Backend
-<a href="/">Backend Repo</a>
+<a href="https://github.com/freckledspider/ecopathbackend">Backend Repo</a>
 - Javascript
 - Express
 
 #### Frontend
-<a href="/">Frontend Repo</a>
+<a href="https://github.com/freckledspider/ecopathfrontend">Frontend Repo</a>
 - HTML
 - CSS
 - Javascript
