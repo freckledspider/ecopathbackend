@@ -1,0 +1,29 @@
+{
+  "name": "ecopathbackend",
+  "version": "1.0.0",
+  "description": "EcoPath is a nature trail tracker application that allows hikers and nature enthusiasts to track their trail routes, record observations of flora and fauna, and share their experiences with others.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freckledspider/ecopathbackend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/freckledspider/ecopathbackend/issues"
+  },
+  "homepage": "https://github.com/freckledspider/ecopathbackend#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.1",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.21"
+  }
+}
