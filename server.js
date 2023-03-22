@@ -24,7 +24,7 @@ const LogSchema = new mongoose.Schema({
   time: String,
   location: String,
   length: Number,
-  images: Array,
+  image: String,
   observations: String
 });
 
